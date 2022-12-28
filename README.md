@@ -1,3 +1,9 @@
+My homepage is made from 11ty Netlify Jumpstart Template. 
+
+See my page at: [CLCK's Homepage](https://www.clckblog.space/) ! 
+
+The following is the original README.md.
+
 # 11ty Netlify Jumpstart
 
 > Created by Stephanie Eckles ([@5t3ph](https://twitter.com/5t3ph))
@@ -43,8 +49,3 @@ against.
 
 Use this as the "Publish command" if needed by hosting such as Netlify.
 
-## Feedback welcome!
-
-You can [file it as an issue](https://github.com/5t3ph/11ty-netlify-jumpstart/issues).
-
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-violet.png)](https://www.buymeacoffee.com/moderncss)

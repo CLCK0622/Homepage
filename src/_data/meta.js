@@ -1,8 +1,7 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
-  siteName: "11ty Netlify Jumpstart",
+  siteName: "CLCK-Homepage",
   siteDescription:
-    "Quickly launch an 11ty-generated static site. Includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.",
-  authorName: "Stephanie Eckles",
-  twitterUsername: "5t3ph", // no `@`
+    "Welcome to my homepage! (The site is made from 11ty Netlify Jumpstart. )",
+  authorName: "Kevin Zhong (aka CLCK)",
 };

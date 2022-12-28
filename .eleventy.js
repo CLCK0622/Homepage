@@ -56,6 +56,8 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
+  
+
   return {
     passthroughFileCopy: true,
     dir: {
@@ -63,5 +65,7 @@ module.exports = function (eleventyConfig) {
       output: "public",
       layouts: "_layouts",
     },
+    htmlTemplateEngine: "njk",
+    markdownTemplateEngine: "njk",
   };
 };
