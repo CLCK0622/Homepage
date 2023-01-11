@@ -1,6 +1,6 @@
 My homepage is made from 11ty Netlify Jumpstart Template. 
 
-See my page at: [CLCK's Homepage](https://www.clckblog.space/) ! 
+See my page at: [CLCK's Homepage](https://www.clckblog.space/)! 
 
 The following is the original README.md.
 
